@@ -11,6 +11,7 @@ google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
+disqus_username   : "anonymous"
 postshare_enabled : false
 
 # Build settings
@@ -28,7 +29,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Tommy Ha"
 
 plugins:
   - jekyll-sitemap
